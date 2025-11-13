@@ -39,7 +39,7 @@ pip install pandas matplotlib seaborn
 ⚙️ Instalación
 
 1- Clona el repositorio:
-git clone https://github.com/cybersecrd/Gestor-de-Clientes-Potenciales.git
+git clone https://github.com/mr-robots28/Gestor-de-Clientes-Potenciales.git
 
 
 2-Ingresa al directorio del proyecto:
